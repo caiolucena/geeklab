@@ -19,6 +19,9 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
+    - [IDEs](#IDEs)
+    - [Program Languages](#program-languages)
+- [Summary](#summary)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
