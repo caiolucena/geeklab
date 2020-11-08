@@ -52,7 +52,7 @@ This is the study repository, which contains all implementations, slides and oth
 
 Here is a summary of all codes for each study topic:
 
-- [Project Pattern]https://github.com/caiolucena/geeklab/tree/master/project-pattern)
+- [Project Pattern](https://github.com/caiolucena/geeklab/tree/master/project-pattern)
   - [01-FactoryLab](https://github.com/caiolucena/geeklab/tree/master/project-pattern/01-FactoryLab)
 
 <!-- GETTING STARTED -->
