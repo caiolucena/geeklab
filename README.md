@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/caiolucena/geeklab">
-    <img src="/assets/images/geek-lab-logo.jpg" alt="Logo" width="80" height="80">
+    <img src="assets/images/geek-lab-logo.jpg" alt="Logo" width="80" height="80">
   </a>
   <h2 align="center">GeekLab - Study Repository</h2>
 </p>
