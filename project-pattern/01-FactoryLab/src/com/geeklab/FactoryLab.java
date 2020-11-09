@@ -1,6 +1,6 @@
-package com.accenture.geeklab;
+package com.geeklab;
 
-import com.accenture.geeklab.factory.impl.MoedaFactory;
+import com.geeklab.factory.impl.MoedaFactory;
 
 public class FactoryLab {
 

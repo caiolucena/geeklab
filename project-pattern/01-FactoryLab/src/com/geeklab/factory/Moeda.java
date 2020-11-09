@@ -1,4 +1,4 @@
-package com.accenture.geeklab.factory;
+package com.geeklab.factory;
 
 public interface Moeda {
 

@@ -1,4 +1,4 @@
-package com.accenture.geeklab.factory.impl;
+package com.geeklab.factory.impl;
 
 public class MoedaFactory {
 
