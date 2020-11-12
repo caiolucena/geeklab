@@ -53,7 +53,8 @@ This is the study repository, which contains all implementations, slides and oth
 Here is a summary of all codes for each study topic:
 
 - [Project Pattern](https://github.com/caiolucena/geeklab/tree/master/project-pattern)
-  - [01-FactoryLab](https://github.com/caiolucena/geeklab/tree/master/project-pattern/01-FactoryLab)
+  - [01 - Factory](https://github.com/caiolucena/geeklab/tree/master/project-pattern/01-FactoryLab)
+  - [02 - Singleton](https://github.com/caiolucena/geeklab/tree/master/project-pattern/02-Singleton)
 
 <!-- GETTING STARTED -->
 
