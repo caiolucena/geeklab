@@ -55,6 +55,7 @@ Here is a summary of all codes for each study topic:
 - [Project Pattern](https://github.com/caiolucena/geeklab/tree/master/project-pattern)
   - [01 - Factory](https://github.com/caiolucena/geeklab/tree/master/project-pattern/01-FactoryLab)
   - [02 - Singleton](https://github.com/caiolucena/geeklab/tree/master/project-pattern/02-Singleton)
+  - [03 - Observer](https://github.com/caiolucena/geeklab/tree/master/project-pattern/03-Observer)
   - [04 - Creator](https://github.com/caiolucena/geeklab/tree/master/project-pattern/04-Creator)
 
 <!-- GETTING STARTED -->
