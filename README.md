@@ -57,6 +57,7 @@ Here is a summary of all codes for each study topic:
   - [02 - Singleton](https://github.com/caiolucena/geeklab/tree/master/project-pattern/02-Singleton)
   - [03 - Observer](https://github.com/caiolucena/geeklab/tree/master/project-pattern/03-Observer)
   - [04 - Creator](https://github.com/caiolucena/geeklab/tree/master/project-pattern/04-Creator)
+  - [05 - Facade](https://github.com/caiolucena/geeklab/tree/master/project-pattern/05-Facade)
 
 <!-- GETTING STARTED -->
 
