@@ -58,6 +58,7 @@ Here is a summary of all codes for each study topic:
   - [03 - Observer](https://github.com/caiolucena/geeklab/tree/master/project-pattern/03-Observer)
   - [04 - Creator](https://github.com/caiolucena/geeklab/tree/master/project-pattern/04-Creator)
   - [05 - Facade](https://github.com/caiolucena/geeklab/tree/master/project-pattern/05-Facade)
+  - [06 - State](https://github.com/caiolucena/geeklab/tree/master/project-pattern/06-State)
 
 <!-- GETTING STARTED -->
 
@@ -105,16 +106,28 @@ Distributed under the APACHE License. See `LICENSE` for more information.
 
 ## Contact
 
-- **Caio Lucena** - _Initial Work_. </br></br> [![Twitter](https://img.shields.io/static/v1?label=twitter&message=@caioblucena&color=16A4FB)](https://twitter.com/caioblucena) [![Facebook](https://img.shields.io/static/v1?label=facebook&message=@caio.lucenaa&color=0F8EF2)](https://www.facebook.com/caio.lucenaa) [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@caio-cesar-b-lucena&color=0A66C2)](https://www.linkedin.com/in/caio-cesar-b-lucena/) [![Github](https://img.shields.io/static/v1?label=github&message=@caiolucena&color=black)](https://github.com/caiolucena/) [![Instagram](https://img.shields.io/static/v1?label=instagram&message=@caioluucena&color=BF2A6D)](https://www.instagram.com/caioluucena/) </br></br>
+- **Caio Lucena** - _Initial Work_. </br></br>
+  [![Twitter](https://img.shields.io/static/v1?label=twitter&message=@caioblucena&color=16A4FB)](https://twitter.com/caioblucena)
+  [![Facebook](https://img.shields.io/static/v1?label=facebook&message=@caio.lucenaa&color=0F8EF2)](https://www.facebook.com/caio.lucenaa)
+  [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@caio-cesar-b-lucena&color=0A66C2)](https://www.linkedin.com/in/caio-cesar-b-lucena/)
+  [![Github](https://img.shields.io/static/v1?label=github&message=@caiolucena&color=black)](https://github.com/caiolucena/) [![Instagram](https://img.shields.io/static/v1?label=instagram&message=@caioluucena&color=BF2A6D)](https://www.instagram.com/caioluucena/) </br></br>
 
-- **Lucas Rocha** - _Initial Work_. </br></br> [![Twitter](https://img.shields.io/static/v1?label=twitter&message=@lucasrochacc&color=16A4FB)](https://twitter.com/lucasrochacc) [![Facebook](https://img.shields.io/static/v1?label=facebook&message=@lucasrochacc&color=0F8EF2)](https://www.facebook.com/lucasrochacc) [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@lucasrochacc&color=0A66C2)](https://www.linkedin.com/in/lucasrochacc/) [![Github](https://img.shields.io/static/v1?label=github&message=@lucasrochagit&color=black)](https://github.com/lucasrochagit/) [![Instagram](https://img.shields.io/static/v1?label=instagram&message=@lucasrochacc&color=BF2A6D)](https://www.instagram.com/lucasrochacc/) </br></br>
+- **Lucas Rocha** - _Initial Work_. </br></br>
+  [![Twitter](https://img.shields.io/static/v1?label=twitter&message=@lucasrochacc&color=16A4FB)](https://twitter.com/lucasrochacc)
+  [![Facebook](https://img.shields.io/static/v1?label=facebook&message=@lucasrochacc&color=0F8EF2)](https://www.facebook.com/lucasrochacc)
+  [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@lucasrochacc&color=0A66C2)](https://www.linkedin.com/in/lucasrochacc/)
+  [![Github](https://img.shields.io/static/v1?label=github&message=@lucasrochagit&color=black)](https://github.com/lucasrochagit/)
+  [![Instagram](https://img.shields.io/static/v1?label=instagram&message=@lucasrochacc&color=BF2A6D)](https://www.instagram.com/lucasrochacc/) </br></br>
 
-- **Luis Lancelote** - _Initial Work_. </br></br> [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@luis-lancellote-marques-74552619a&color=0A66C2)](https://www.linkedin.com/in/luis-lancellote-marques-74552619a/) [![Github](https://img.shields.io/static/v1?label=github&message=@LanceMarques&color=black)](https://github.com/LanceMarques/) [![Instagram](https://img.shields.io/static/v1?label=instagram&message=@lance_marques&color=BF2A6D)](https://www.instagram.com/lance_marques/) </br></br>
+- **Luis Lancelote** - _Initial Work_. </br></br>
+  [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@luis-lancellote-marques-74552619a&color=0A66C2)](https://www.linkedin.com/in/luis-lancellote-marques-74552619a/)
+  [![Github](https://img.shields.io/static/v1?label=github&message=@LanceMarques&color=black)](https://github.com/LanceMarques/)
+  [![Instagram](https://img.shields.io/static/v1?label=instagram&message=@lance_marques&color=BF2A6D)](https://www.instagram.com/lance_marques/) </br></br>
 
 - **Adalcino Junior** - _Initial Work_. </br></br>
-[![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@adalcino-junior-863829192a&color=0A66C2)](https://www.linkedin.com/in/adalcino-junior-863829192/)
-[![Github](https://img.shields.io/static/v1?label=github&message=@adalcinojunior&color=black)](https://github.com/adalcinojunior)
-[![Facebook](https://img.shields.io/static/v1?label=facebook&message=@adalcino.junior.96&color=0F8EF2)](https://www.facebook.com/adalcino.junior.96)  </br></br>
+  [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=@adalcino-junior-863829192a&color=0A66C2)](https://www.linkedin.com/in/adalcino-junior-863829192/)
+  [![Github](https://img.shields.io/static/v1?label=github&message=@adalcinojunior&color=black)](https://github.com/adalcinojunior)
+  [![Facebook](https://img.shields.io/static/v1?label=facebook&message=@adalcino.junior.96&color=0F8EF2)](https://www.facebook.com/adalcino.junior.96) </br></br>
 
 <!-- ACKNOWLEDGEMENTS -->
 
