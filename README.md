@@ -59,6 +59,7 @@ Here is a summary of all codes for each study topic:
   - [04 - Creator](https://github.com/caiolucena/geeklab/tree/master/project-pattern/04-Creator)
   - [05 - Facade](https://github.com/caiolucena/geeklab/tree/master/project-pattern/05-Facade)
   - [06 - State](https://github.com/caiolucena/geeklab/tree/master/project-pattern/06-State)
+  - [08 - Memento](https://github.com/caiolucena/geeklab/tree/master/project-pattern/08-Memento)
 
 <!-- GETTING STARTED -->
 
