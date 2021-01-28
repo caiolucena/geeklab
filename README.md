@@ -60,6 +60,7 @@ Here is a summary of all codes for each study topic:
   - [05 - Facade](https://github.com/caiolucena/geeklab/tree/master/project-pattern/05-Facade)
   - [06 - State](https://github.com/caiolucena/geeklab/tree/master/project-pattern/06-State)
   - [08 - Memento](https://github.com/caiolucena/geeklab/tree/master/project-pattern/08-Memento)
+  - [09 - Adapter](https://github.com/caiolucena/geeklab/tree/master/project-pattern/09-Adapter)
 
 <!-- GETTING STARTED -->
 
